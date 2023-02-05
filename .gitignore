@@ -1,8 +1,8 @@
 ml-100k/
+.DS_Store
 1800.csv
 Book
 customer-orders.csv
 fakefriends-header.csv
 fakefriends.csv
-.DS_Store
-.idea
+.idea/
