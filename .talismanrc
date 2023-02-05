@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: spark-sql-dataframe.py
+  checksum: 629aecded8d97ca6c86724c99322c75d18afe6106cf2fee6e68f5343c1da1d41
+- filename: spark-sql.py
+  checksum: 816711c91bcc477801ad9a56313822509847f2d7efde28e9fce2d85f426af44c
+- filename: total-spent-by-customer-sorted.py
+  checksum: d81390375fe849db1a77d3609716115392faf5d797398f950f23f3372c2ac810
+- filename: friends-by-age.py
+  checksum: 319734590e21f2e0f4921d959f2e871f38487078eaaef361994a4106f8f93492
+- filename: word-count-better-sorted.py
+  checksum: 3b303d5bd3f5da824c6ffa62c60b29897dac1d6fcaa2a9bdd465519a0f3f303a
+version: ""
